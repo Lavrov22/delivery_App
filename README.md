@@ -6,6 +6,5 @@ This is a e-commerce website built with React, Next.js.
 ## Build with:
 » React.js  
 » Next.js  
-» module.css 
-» Formik
+» Formik 
 
